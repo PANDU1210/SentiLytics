@@ -1,1 +1,1 @@
-# SentiLytics
+# Sentilytics
